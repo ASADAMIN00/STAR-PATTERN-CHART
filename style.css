@@ -1,0 +1,20 @@
+div#pattren {
+    width: 0%;
+    
+}
+    div#pattren1 {
+        width: 0%;
+    
+}
+.blk {
+    width: 24%;
+}
+
+.flex {
+    display: flex !important;
+    justify-content: flex-start;
+}
+body{
+    color: aqua;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/688/262/non_2x/triangle-geometric-black-3d-background-dark-mosaic-geometry-pattern-polygon-shape-pattern-backdrop-triangular-creative-template-abstract-modern-wallpaper-design-illustration-vector.jpg);
+}
